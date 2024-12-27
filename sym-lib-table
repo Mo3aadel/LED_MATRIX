@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "6pinconnector")(type "Legacy")(uri "C:/Users/mohamed.elmandouh/Desktop/KiCad_Projects/LED_Matrix/6pinconnector.lib")(options "")(descr ""))
+  (lib (name "LED Matrix Display Badge-rescue")(type "Legacy")(uri "C:/Users/mohamed.elmandouh/Desktop/KiCad_Projects/LED_Matrix/LED Matrix Display Badge-rescue.lib")(options "")(descr ""))
+)
